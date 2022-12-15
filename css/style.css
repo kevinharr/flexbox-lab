@@ -103,5 +103,8 @@ main  {
     background-color: red;
     color:#fff;
     padding: 8px 18px;
+  }
 
+  footer > h3 {
+   text-align: center;
   }
